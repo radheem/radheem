@@ -15,15 +15,17 @@ I'm a software engineer with a solid background in delivering scalable, high-qua
 
 #### **Al Hilal Invest** | Senior Software Engineer  
 *Nov 2023 - Mar 2024*  
+- Al Hilal Invest is a trading application providing access to Shariah Compliant Mutual Funds 
 - Led system design efforts, optimizing backend architecture for isolation, fault tolerance, and scalability.
 - Enhanced deployment processes with containerization and automation.
-- Revamped the **Admin Portal** and **Backend Services** with a focus on microservices, role-based permissions, and CI/CD.
+- Revamped the **Admin Portal** and **Backend Services** with a focus on microservices and CI/CD.
 
 #### **Seedlabs (Bluefin)** | Software Engineer  
 *Aug 2021 - Sept 2023*  
+- Bluefin is a decentralized orderbook-based exchange
 - Designed and managed features with the Product team, converting requirements into structured designs.
-- Developed and maintained **Notification Service** and **Liquidator Bot** to enhance user experience and ensure accurate position management.
-- Built **Bluefin Clients** to attract market makers, increasing exchange trading volume.
+- Developed and maintained services to ensure smooth and accurate exchange behavior.
+- Built **Bluefin Clients** to attract market makers, allowing easier access to exchange.
 
 #### **Seedlabs** | Junior Data Scientist  
 *Jun 2020 - Aug 2021*  

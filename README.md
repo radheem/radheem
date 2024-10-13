@@ -46,8 +46,8 @@ I'm a software engineer with a solid background in delivering scalable, high-qua
 
 ### 📫 **Get in Touch**
 
-- [LinkedIn](https://linkedin.com/in/sheikh.radheem)
-- [GitHub](https://github.com/sheikh.radheem)
+- [LinkedIn](https://www.linkedin.com/in/radheem-razi/)
+- [GitHub](https://github.com/radheem)
 - Email: [sheikh.radheem@gmail.com](mailto:sheikh.radheem@gmail.com)
 
 Let's connect and build something impactful! 👨‍💻

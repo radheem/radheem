@@ -1,5 +1,5 @@
 # Hi there, I'm Radheem Bin Razi 👋
-**Backend Engineer| Data Engineering Enthusiast | Cloud Enthusiast**
+**Backend Engineer | Data Engineering Enthusiast | Cloud Enthusiast**
 
 I'm a software engineer with a solid background in delivering scalable, high-quality backend solutions. My work focuses on building efficient systems with a passion for maintainable, testable code and data-driven decision-making. I specialize in backend engineering and cloud technologies, and I have a proven track record of fostering team collaboration and contributing to impactful projects.
 
@@ -16,32 +16,32 @@ I'm a software engineer with a solid background in delivering scalable, high-qua
 
 #### **Al Hilal Invest** | Senior Software Engineer  
 *Nov 2023 - Mar 2024  
-- Led system design efforts, optimizing backend architecture for isolation, fault tolerance, and scalabity
-- Enhanced deployment processes with containerization and automion
-- Revamped the **Admin Portal** and **Backend Services** with a focus on microservices and /CD.
+- Led system design efforts, optimizing backend architecture for isolation, fault tolerance, and scalabity.
+- Enhanced deployment processes with containerization and automation
+- Revamped the **Admin Portal** and **Backend Services** with a focus on microservices and CI/CD.
 
 #### **Seedlabs (Bluefin)** | Software Engineer  
 *Aug 2021 - Sept 2023  
--  Designed and managed features with the Product team, converting requirements into structured degns
--  Developed and maintained services to ensure smooth and accurate exchange behior
--  Built **Bluefin Clients** to attract market makers, facilitating easier access to the excnge.
+- Designed and managed features with the Product team, converting requirements into structured features.
+- Developed and maintained services to ensure smooth and accurate exchange behavior. 
+- Built **Bluefin Clients** to attract market makers, facilitating easier access to the exchange.
 
 #### **Seedlabs** | Junior Data Scientist  
 *Jun 2020 - Aug 2021  
--  Developed **Ceali.ai**, a machine learning-based platform for predicting crop yields using US weatherata
--  Conducted algorithmic trading experiments, generating volume with minimal capital invesent
--  Created business dashboards for actionable inshts.
+- Developed **Ceali.ai**, a machine learning-based platform for predicting crop yields using US weather data.
+- Conducted algorithmic trading experiments, generating volume with minimal capital investment.
+- Created business dashboards for actionable insights.
 
 ---
 
 ### 🛠️ **Technical Skills**
 
-- **Backend Developmnt:** Python, TypeScript, Django, NestJS, Go, de.js
-- **Frontend Developmnt:** React, TypeScript, Javcript
-- **Database Managemnt:** PostgreSQL, MongoDB, DynamoDB, BigQuery, Snflake
-- **Cloud & Deploymnt:** AWS EC2, Aurora RDS, Docker, GitHub Actions, Teaform
-- **Async Communicaton:** Kafka, RabbitMQRedis
-- **Monitorng:** Prometheus, Grafana, Datadog, Mabase
+- **Backend Developmnt:**: Python, TypeScript, Django, NestJS, Go, Node.js
+- **Frontend Developmnt:**: React, TypeScript, Javascript
+- **Database Managemnt:**: PostgreSQL, MongoDB, DynamoDB, BigQuery, Snowflake
+- **Cloud & Deploymnt:**: AWS EC2, Aurora RDS, Docker, GitHub Actions, Terraform
+- **Async Communicaton:**: Kafka, RabbitMQ, Redis
+- **Monitorng:**: Prometheus, Grafana, Datadog, Metabase
 
 ---
 

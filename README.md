@@ -50,6 +50,6 @@ I'm a software engineer with a solid background in delivering scalable, high-qua
 - [LinkedIn](https://www.linkedin.com/in/radheem-razi/)
 - [GitHub](https://github.com/radheem)
 - Email: [sheikh.radheem@gmail.com](mailto:sheikh.radheem@gmail.com)
-- Resume: [Docs file](https://docs.google.com/document/d/1zxBNWb_eqvAq-kVv55XGb6J6ZpUphMqixJC2H7oGdCI/edit?usp=sharing)
+- [Resume](https://docs.google.com/document/d/1zxBNWb_eqvAq-kVv55XGb6J6ZpUphMqixJC2H7oGdCI/edit?usp=sharing)
 
 Let's connect and build something impactful! 👨‍💻

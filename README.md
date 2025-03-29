@@ -1,5 +1,5 @@
 # Hi there, I'm Radheem Bin Razi 👋
-**Software Engineer | Backend Engineer| Data Engineering Enthusiast | Cloud Enthusiast**
+**Backend Engineer| Data Engineering Enthusiast | Cloud Enthusiast**
 
 I'm a software engineer with a solid background in delivering scalable, high-quality backend solutions. My work focuses on building efficient systems with a passion for maintainable, testable code and data-driven decision-making. I specialize in backend engineering and cloud technologies, and I have a proven track record of fostering team collaboration and contributing to impactful projects.
 

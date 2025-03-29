@@ -22,15 +22,15 @@ I'm a software engineer with a solid background in delivering scalable, high-qua
 
 #### **Seedlabs (Bluefin)** | Software Engineer  
 *Aug 2021 - Sept 2023  
-- Designed and managed features with the Product team, converting requirements into structured degns
-- Developed and maintained services to ensure smooth and accurate exchange behior
-- Built **Bluefin Clients** to attract market makers, facilitating easier access to the excnge.
+-  Designed and managed features with the Product team, converting requirements into structured degns
+-  Developed and maintained services to ensure smooth and accurate exchange behior
+-  Built **Bluefin Clients** to attract market makers, facilitating easier access to the excnge.
 
 #### **Seedlabs** | Junior Data Scientist  
 *Jun 2020 - Aug 2021  
-- Developed **Ceali.ai**, a machine learning-based platform for predicting crop yields using US weatherata
-- Conducted algorithmic trading experiments, generating volume with minimal capital invesent
-- Created business dashboards for actionable inshts.
+-  Developed **Ceali.ai**, a machine learning-based platform for predicting crop yields using US weatherata
+-  Conducted algorithmic trading experiments, generating volume with minimal capital invesent
+-  Created business dashboards for actionable inshts.
 
 ---
 
@@ -50,5 +50,6 @@ I'm a software engineer with a solid background in delivering scalable, high-qua
 - [LinkedIn](https://www.linkedin.com/in/radheem-razi/)
 - [GitHub](https://github.com/radheem)
 - Email: [sheikh.radheem@gmail.com](mailto:sheikh.radheem@gmail.com)
+- Resume: [Docs file](https://docs.google.com/document/d/1zxBNWb_eqvAq-kVv55XGb6J6ZpUphMqixJC2H7oGdCI/edit?usp=sharing)
 
 Let's connect and build something impactful! 👨‍💻
